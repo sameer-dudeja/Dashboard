@@ -240,35 +240,16 @@ Sidebar
   display: none;
 }
 .show-sidebar {
-  transform: translateX(-13rem);
-  background-color: white;
-  font-size: 0.7rem;
-  position: absolute;
-  top: 10.2rem;
-}
-.leftsidebar {
-  width: 100%;
-  height: 100%;
-  background: var(--clr-white);
-  display: grid;
-  grid-template-rows: auto 1fr auto;
-  row-gap: 1rem;
-  box-shadow: var(--clr-red-dark);
-  transition: var(--transition);
-  display: none;
-}
-.show-leftsidebar {
   transform: translateX(0rem);
   background-color: white;
   font-size: 0.7rem;
-  width: 13rem;
-  position: absolute;
-  top: 10.2rem;
+  height: 100%;
 }
 .sidebar-div {
   /* position: fixed;
   top: 30rem; */
   padding: auto;
+  height: 100%;
 }
 @media screen and (min-width: 676px) {
   .show-sidebar {

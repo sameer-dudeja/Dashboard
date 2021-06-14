@@ -24,28 +24,6 @@ const Sidebar = () => {
           )
         })}
       </ul>
-      <div className='spacer'>
-        <h4>Vendor Statistics</h4>
-        <p>Lorem, ipsum</p>
-        <p>Lorem, ipsum dolor</p>
-        <p>Lorem, ipsum</p>
-        <p>Lorem, ipsum</p>
-      </div>
-      <div className='bottom-container'>
-        <div className='bottom-header'>
-          <h4>Buy From Vendor</h4>
-        </div>
-        <div className='bottominfo'>
-          <div className='bottom-elements'>Quotes</div>
-          <div className='bottom-elements'>Orders</div>
-          <div className='bottom-elements'>Orders</div>
-        </div>
-        <div className='bottominfo'>
-          <div className='bottom-elements'>Quotes</div>
-          <div className='bottom-elements'>Orders</div>
-          <div className='bottom-elements'>Orders</div>
-        </div>
-      </div>
     </div>
   )
 }

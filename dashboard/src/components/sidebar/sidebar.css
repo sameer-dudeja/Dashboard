@@ -5,6 +5,8 @@
   position: sticky;
   top: 50px;
   border-radius: 10px;
+  box-shadow: 27px -1px 25px -15px rgba(0, 0, 0, 0.13);
+  -webkit-box-shadow: 27px -1px 25px -15px rgba(0, 0, 0, 0.13);
 }
 .Sidebar-wrapper {
   padding: 0 20px 20px 20px;
@@ -34,6 +36,7 @@
 .sidebar-title {
   font-size: 13px;
   color: #1a2980;
+  margin: 5px;
 }
 
 .btn-grad {

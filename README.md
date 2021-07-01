@@ -2,7 +2,7 @@
 
 This project was developed by Sameer Dudeja, Using React and Material UI.
 
-## Installation Commants
+## Installation Commands
 
 In the project directory, you can run:
 

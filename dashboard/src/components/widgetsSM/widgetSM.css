@@ -7,6 +7,7 @@
 .widget-sm-title {
   font-size: 32px;
   font-weight: bold;
+  color: #1a2980;
 }
 .widget-sm-img {
   font: 40px;
@@ -24,6 +25,7 @@
   align-items: center;
   justify-content: space-between;
   margin: 20px 0px;
+  color: #1a2980;
 }
 .widget-sm-username {
   font-size: 15px;
